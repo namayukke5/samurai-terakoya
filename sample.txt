@@ -3,3 +3,5 @@ sample-02
 sample-03
 sample-4
 sample-5
+Tera
+Koya
